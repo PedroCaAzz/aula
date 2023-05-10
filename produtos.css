@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(104, 104, 104);
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-transform: uppercase;
+
+    color: black;
+
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav li{
+    margin: 0 0 0 15px;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 780px;
+}
+
+.produtos li{
+
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+.produtos{
+
+    width: 940px;
+    margin:  0 auto;
+}
